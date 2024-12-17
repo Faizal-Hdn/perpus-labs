@@ -32,6 +32,7 @@
                                             alt="">
                                     @endif
                                 </div>
+                                
                                 <div class="col-8">
                                     <table border="0">
                                         <thead>
