@@ -1,3 +1,8 @@
+// Nama :Faizal Rizkan
+// Kelas : 502
+// NIM : 220101010157
+// Makul : Pemprograman berbasis Web
+
 <!DOCTYPE html>
 <html lang="en">
 

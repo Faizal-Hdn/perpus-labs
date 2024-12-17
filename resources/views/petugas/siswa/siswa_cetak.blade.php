@@ -1,3 +1,8 @@
+// Nama :Faizal Rizkan
+// Kelas : 502
+// NIM : 220101010157
+// Makul : Pemprograman berbasis Web
+
 @extends('petugas.theme.master')
 
 @section('content')
@@ -32,7 +37,7 @@
                                             alt="">
                                     @endif
                                 </div>
-                                
+
                                 <div class="col-8">
                                     <table border="0">
                                         <thead>

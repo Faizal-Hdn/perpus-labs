@@ -29,9 +29,11 @@ use Illuminate\Support\Facades\Route;
 */
 
 
-// Route::get('/', function () {
-//     return view('welcome');
-// });
+// Nama :Faizal Rizkan
+// Kelas : 502
+// NIM : 220101010157
+// Makul : Pemprograman berbasis Web
+
 
 Route::get('/', [LoginController::class, 'login'])->name('login');
 // Route::get('/visi', [DashboardController::class, 'visi'])->name('home.visi');
