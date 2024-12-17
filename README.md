@@ -7,6 +7,9 @@ Laravel Perpustakaan Pribadi adalah aplikasi manajemen perpustakaan sederhana ya
 ![Login Page](./screenshots/login.png)
 
 ### Halaman Dashboard
+![Detail Users](./screenshots/details.png)
+
+### Halaman Dashboard
 ![Detail Dashboard](./screenshots/detail-mahasiswa.png)
 
 ---
