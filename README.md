@@ -29,8 +29,8 @@ Pastikan Anda memiliki:
 - Node.js & NPM
 - Git
 
-### Langkah-langkah
-1. Clone repository:
+## Langkah - langkah
+### Clone repository:
    ```bash
    git clone https://gitlab.com/username/repository-name.git
    cd repository-name
@@ -63,6 +63,8 @@ php artisan key:generate
 ### Migrasi database dan seed data:
 ```bash
 php artisan migrate --seed
+atau
+restore db dump 
 ```
 ### Jalankan aplikasi:
 
